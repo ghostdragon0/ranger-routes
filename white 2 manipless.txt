@@ -1,0 +1,5 @@
+:::tracker{species=Tepig baseStats="[65, 63, 45, 45, 45, 45]"}
+:::
+
+:::tracker{species=Drilbur baseStats="[60, 85, 40, 30, 45, 68]"}
+:::
